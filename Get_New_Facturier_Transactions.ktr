@@ -502,7 +502,7 @@
     <database>${CashPlusDB_Name}</database>
     <port>${CashPlusDB_PortNumber}</port>
     <username>${CashPlusDB_UserName}</username>
-    <password>${CashPlusDB_PassWord}</password>
+    <password>Encrypted 2dbb2ea981795dfd68011e53f9adf91fe</password>
     <servername />
     <data_tablespace />
     <index_tablespace />
@@ -1163,8 +1163,8 @@ order by nId
       </output>
     </remotesteps>
     <GUI>
-      <xloc>241</xloc>
-      <yloc>187</yloc>
+      <xloc>240</xloc>
+      <yloc>176</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

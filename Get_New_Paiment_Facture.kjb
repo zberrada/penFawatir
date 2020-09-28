@@ -296,7 +296,7 @@
       <repeat>Y</repeat>
       <schedulerType>1</schedulerType>
       <intervalSeconds>0</intervalSeconds>
-      <intervalMinutes>10</intervalMinutes>
+      <intervalMinutes>15</intervalMinutes>
       <hour>12</hour>
       <minutes>0</minutes>
       <weekDay>1</weekDay>
